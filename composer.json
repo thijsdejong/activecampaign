@@ -1,5 +1,5 @@
 {
-    "name": "testmonitor/activecampaign",
+    "name": "thijsdejong/activecampaign",
     "description": "ActiveCampaign API connector for APIv3",
     "keywords": ["activecampaign", "active", "campaign", "api"],
     "authors": [
@@ -20,7 +20,13 @@
             "email": "fkeulen@testmonitor.com",
             "homepage": "https://www.testmonitor.com/",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "Thijs de Jong",
+            "email": "thijs@desync.dev",
+            "homepage": "https://desync.dev",
+            "role": "Developer"
+        },
     ],
     "license": "MIT",
     "type": "package",
